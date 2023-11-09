@@ -1,0 +1,49 @@
+header {
+    background-color: var(--cor-preta);
+    height: 80px;
+    display: block;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    max-width: 1170px;
+    justify-content: space-between;
+    margin: auto;
+    height: 80px;
+    padding: 0px 15px;
+}
+
+.spotify-logo {
+    width: 132px;
+    height: 40px;
+}
+
+.header-nav {
+    width: 500px;
+}
+
+.nav-opcoes {
+
+}
+
+.opcoes-item {
+    display: inline;
+    color: var(--cor-branca);
+}
+
+.item-link {
+    color: var(--cor-branca);
+    font-size: 16px;
+    font-weight: 700px;
+    text-decoration: none;
+}
+
+.log-on-out {
+    color: var(--cor-login-cinza);
+}
+
+.log-on-out:hover {
+    color: var(--cor-hover-verde);
+}

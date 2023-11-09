@@ -1,0 +1,16 @@
+:root {
+    --cor-branca: white;
+    --cor-preta: black;
+    --cor-hover-verde: #1ed760;
+    --cor-login-cinza: #d9dadc;
+    --cor-azul: rgba(13, 144, 234);
+    --cor-link-brasil: #919496;
+    --cor-backgroubd-ms: #222326;
+    --cor-fundo-azul: #0d72ea;
+    --cor-fundo-banner: #191414;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
